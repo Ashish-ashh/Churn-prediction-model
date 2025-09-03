@@ -7,6 +7,8 @@
 
 ![Screenshot](sc.png)
 
+You can try the model here-- [https://churn-prediction-model-ashh.streamlit.app/]
+
 ## 📌 Project Overview
 This project predicts **customer churn** (whether a customer will leave a service) using machine learning.  
 It is aimed at helping businesses **reduce churn** and **improve customer retention**.
@@ -75,3 +77,6 @@ Clone this repo:
 ```bash
 git clone https://github.com/Ashish-ashh/Churn-prediction-model.git
 cd churn-prediction-model
+```
+
+you can try the model here-- [https://churn-prediction-model-ashh.streamlit.app/]
