@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+matplotlib==3.9.0
+seaborn==0.13.2
+streamlit==1.36.0      # Only if you made a Streamlit app
+jupyter==1.0.0         # Only if you are sharing notebooks
